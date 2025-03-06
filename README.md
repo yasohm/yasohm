@@ -5,7 +5,7 @@ I love coding and exploring new technologies to build innovative solutions.
 
 ## 🚀 Skills & Technologies
 
-- **Programming Languages:** C#, Python, SQL, C, C++
+- **Programming Languages:** C#, Python, SQL, C, C++,java
 - **Web Development:** HTML, CSS, JavaScript
 - **Databases:** MySQL, SQL Server
 - **Software Development:** Object-Oriented Programming (OOP), Algorithms
