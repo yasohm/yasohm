@@ -106,11 +106,6 @@ chmod +x run.sh
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasohm&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coder-samurai/coder-samurai/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coder-samurai/coder-samurai/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/coder-samurai/coder-samurai/output/pacman-contribution-graph.svg">
-</picture>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasohm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
