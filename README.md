@@ -106,6 +106,12 @@ chmod +x run.sh
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasohm&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="donkey-kong-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="donkey-kong-graph.svg">
+  <img alt="donkey kong contribution graph" src="donkey-kong-graph.svg" width="140" height="140">
+</picture>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasohm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
