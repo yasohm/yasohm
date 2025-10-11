@@ -174,7 +174,7 @@ projects:
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<sub>Built with precision by Yassin Benhaida | 2024</sub>
+<sub>Built with precision by Yassin Benhaida | 2025</sub>
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
