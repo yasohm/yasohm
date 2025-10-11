@@ -20,7 +20,7 @@
 
 ## ⚡ ABOUT
 
-> BTS Application Development Student | Full-Stack Engineer | Security Enthusiast
+> BTS Application Development Student | Security Enthusiast
 
 I architect scalable applications and explore the intersection of development and cybersecurity. My work spans from building production-ready web applications to researching security tools and contributing to open source projects that matter.
 
