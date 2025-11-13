@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ ABOUT
+##  ABOUT
 
 > BTS Application Development Student | Security Enthusiast
 
@@ -28,7 +28,7 @@ I architect scalable applications and explore the intersection of development an
 
 ---
 
-## 🎯 FEATURED PROJECT
+##  FEATURED PROJECT
 
 ### [YASSIN HACK TOOLS](https://github.com/yasohm/yassin_hackTools) 
 **Advanced Penetration Testing Suite**
@@ -60,7 +60,7 @@ $ cd yassin_hackTools && chmod +x run.sh && ./run.sh
 
 ---
 
-## 💻 TECH STACK
+##  TECH STACK
 
 <div align="center">
 
@@ -87,7 +87,7 @@ $ cd yassin_hackTools && chmod +x run.sh && ./run.sh
 
 ---
 
-## 📊 GITHUB METRICS
+##  GITHUB METRICS
 
 <div align="center">
 
@@ -103,7 +103,7 @@ $ cd yassin_hackTools && chmod +x run.sh && ./run.sh
 
 ---
 
-## 🚀 CURRENT WORK
+##  CURRENT WORK
 
 ```yaml
 projects:
@@ -183,7 +183,7 @@ projects:
   </p>
 </div>
 
-## 🎯 OBJECTIVES
+##  OBJECTIVES
 
 <table>
 <tr>
