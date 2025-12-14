@@ -30,7 +30,7 @@ I architect scalable applications and explore the intersection of development an
 
 ##  FEATURED PROJECT
 
-### [YASSIN HACK TOOLS](https://github.com/yasohm/yassin_hack_tools) 
+### [YASSIN HACK TOOLS](https://github.com/yasohm/YASSIN-HACK-TOOLS) 
 **Advanced Penetration Testing Suite**
 
 ```bash
