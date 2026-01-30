@@ -1,21 +1,21 @@
 <div align="center">
 
-# 🚀 YASSIN BENHAIDA
-### Application Developer • Security Enthusiast • Student
+# YASSIN BENHAIDA
+### Application Developer | Security Enthusiast | Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Cyber+Resilience;Crafting+Modern+Architectures;Full+Stack+Security+Innovator" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yasohm&style=for-the-badge&color=00D9FF" alt="Views" />
   <img src="https://img.shields.io/badge/status-available_for_work-00ff00?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/location-Morocco_🇲🇦-ff6b6b?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/location-Morocco-ff6b6b?style=for-the-badge" alt="Location" />
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+## ABOUT ME
 
 <table border="0">
   <tr>
@@ -35,14 +35,14 @@
   </tr>
 </table>
 
-## ✨ FEATURED PROJECT
+## FEATURED PROJECT
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <h3>🛠️ YASSIN HACK TOOLS</h3>
-        <p><b>The Ultimate Security Researcher's Toolkit</b></p>
+        <h3>YASSIN HACK TOOLS</h3>
+        <p><b>Security Researcher's Suite</b></p>
         <p>A comprehensive suite integrating 20+ advanced security tools into a unified, high-performance interface. Built for authorized penetration testing and ethical research.</p>
         <p align="left">
           <img src="https://img.shields.io/badge/version-2.0-00D9FF?style=for-the-badge" />
@@ -58,7 +58,7 @@ $ cd yassin_hackTools && chmod +x run.sh && ./run.sh</code></pre>
 
 ---
 
-## 🛠️ TECH STACK
+## TECH STACK
 
 <div align="center">
 
@@ -72,7 +72,7 @@ $ cd yassin_hackTools && chmod +x run.sh && ./run.sh</code></pre>
 
 ---
 
-## 📈 GITHUB ANALYTICS
+## ANALYTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasohm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D111700&title_color=00D9FF&text_color=FFFFFF" height="150px"/>
@@ -85,23 +85,23 @@ $ cd yassin_hackTools && chmod +x run.sh && ./run.sh</code></pre>
 
 ---
 
-## 🛰️ CURRENT ROADMAP
+## PROJECT ROADMAP
 
 <div align="center">
 
 | **Project** | **Stack** | **Status** |
 |:---|:---|:---|
-| Full-Stack Ecosystems | React • .NET • MySQL | 🚀 In Production |
-| Security Research Tools | Python • Bash • HW | 🛠️ Active Dev |
-| Open Source Advocacy | Developer Tooling | 🌟 Ongoing |
-| Mobile Architecture | Flutter • Cross-Platform | 🔍 Exploration |
+| Full-Stack Ecosystems | React | Active |
+| Security Research Tools | Python | Development |
+| Open Source Advocacy | Tooling | Ongoing |
+| Mobile Architecture | Flutter | Exploration |
 
 </div>
 
 ---
 
 
-## 📡 GET IN TOUCH
+## GET IN TOUCH
 
 <div align="center">
 
@@ -124,7 +124,7 @@ $ cd yassin_hackTools && chmod +x run.sh && ./run.sh</code></pre>
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<sub>Crafted with code by **Yassin Benhaida** | 2026</sub>
+<sub>Crafted by **Yassin Benhaida** | 2026</sub>
 
 ![Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
