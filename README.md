@@ -210,6 +210,20 @@ projects:
 
 ---
 
+##  DEVELOPER REALITY
+
+```bash
+while (alive) {
+    eat();
+    code();
+    sleep(); // Still debugging this part
+}
+```
+
+> **Fun Fact:** I have a 1:1 ratio of coffee consumed to bugs created (and occasionally fixed).
+
+---
+
 ## 📡 CONNECT
 
 <div align="center">
