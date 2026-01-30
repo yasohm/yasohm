@@ -1,121 +1,228 @@
 <div align="center">
 
 # YASSIN BENHAIDA
-### Application Developer | Security Enthusiast | Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Cyber+Resilience;Crafting+Modern+Architectures;Full+Stack+Security+Innovator" alt="Typing SVG" />
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  APPLICATION DEVELOPER  |  STUDENT  |  OPEN SOURCE ADVOCATE  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasohm&style=for-the-badge&color=00D9FF" alt="Views" />
-  <img src="https://img.shields.io/badge/status-available_for_work-00ff00?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/location-Morocco-ff6b6b?style=for-the-badge" alt="Location" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time;Full+Stack+%7C+Security+%7C+Innovation" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yasohm&style=flat-square&color=00D9FF)](https://github.com/yasohm)
+[![Status](https://img.shields.io/badge/status-available_for_work-00ff00?style=flat-square)](https://github.com/yasohm)
+[![Location](https://img.shields.io/badge/location-Morocco_🇲🇦-ff6b6b?style=flat-square)](https://github.com/yasohm)
 
 </div>
 
 ---
 
-## ABOUT ME
+##  ABOUT
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p>
-        I am a <b>BTS Application Development Student</b> with a deep-seated passion for <b>Cybersecurity</b>. I specialize in architecting scalable applications that aren't just functional, but inherently secure. 
-      </p>
-      <p>
-        My journey involves bridging the gap between high-performance code and robust security practices. From web development to penetration testing tools, I build with a defensive mindset.
-      </p>
-      <b>Current Focus:</b> 
-      <code>Modern Web Architectures</code> • <code>Cloud Security</code> • <code>Ethical Hacking Research</code>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yasohm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D111700&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="100%"/>
-    </td>
-  </tr>
+> BTS Application Development Student | Security Enthusiast
+
+I architect scalable applications and explore the intersection of development and cybersecurity. My work spans from building production-ready web applications to researching security tools and contributing to open source projects that matter.
+
+**Current Focus:** Modern web architectures, cloud-native development, and ethical security research.
+
+---
+
+##  FEATURED PROJECT
+
+### [YASSIN HACK TOOLS](https://github.com/yasohm/YASSIN-HACK-TOOLS) 
+**Advanced Penetration Testing Suite**
+
+```bash
+$ git clone https://github.com/yasohm/yassin_hackTools.git
+$ cd yassin_hackTools && chmod +x run.sh && ./run.sh
+```
+
+<div align="center">
+
+![Version](https://img.shields.io/badge/version-2.0-00D9FF?style=for-the-badge)
+![License](https://img.shields.io/badge/license-GPL_v3-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-Ubuntu-E95420?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3.x-3776AB?style=for-the-badge)
+
+</div>
+
+**What it does:** A comprehensive toolkit integrating 20+ security tools into a unified interface for authorized penetration testing and security research.
+
+**Key Modules:**
+- `Network Recon` → Nmap integration for infrastructure discovery
+- `Web Security` → SQLMap + RED_HAWK for application testing  
+- `Exploitation` → Metasploit framework integration
+- `OSINT` → Information gathering and geolocation tools
+- `Social Engineering` → Awareness and training utilities
+
+⚠️ **Educational Use Only** - Requires proper authorization for any security testing activities.
+
+---
+
+##  TECH STACK
+
+<div align="center">
+
+### Core Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+##  GITHUB METRICS
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yasohm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasohm&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasohm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=yasohm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+---
+
+##  CURRENT WORK
+
+```yaml
+projects:
+  - name: Full-Stack Web Applications
+    stack: [React, .NET, MySQL]
+    status: In Production
+    
+  - name: Security Research Tools
+    stack: [Python, Bash, Linux]
+    status: Active Development
+    
+  - name: Open Source Contributions
+    focus: Developer Tools & Education
+    status: Ongoing
+    
+  - name: Mobile Development
+    stack: [Cross-Platform Frameworks]
+    status: Exploration Phase
+```
+
+---
+
+
+## Tools & Technologies I Use
+
+<div align="center">
+  <h3>Languages and Tools:</h3>
+  <p>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    </a>
+  </p>
+</div>
+
+##  OBJECTIVES
+
+<table>
+<tr>
+<td width="50%">
+
+**Technical Mastery**
+- Advanced full-stack architectures
+- Cloud-native development patterns
+- Microservices & distributed systems
+- Performance optimization
+
+</td>
+<td width="50%">
+
+**Community Impact**
+- Open source tool development
+- Knowledge sharing & mentoring
+- Security awareness education
+- Industry collaboration
+
+</td>
+</tr>
 </table>
 
-## FEATURED PROJECT
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <h3>YASSIN HACK TOOLS</h3>
-        <p><b>Security Researcher's Suite</b></p>
-        <p>A comprehensive suite integrating 20+ advanced security tools into a unified, high-performance interface. Built for authorized penetration testing and ethical research.</p>
-        <p align="left">
-          <img src="https://img.shields.io/badge/version-2.0-00D9FF?style=for-the-badge" />
-          <img src="https://img.shields.io/badge/platform-Linux-E95420?style=for-the-badge&logo=linux" />
-          <img src="https://img.shields.io/badge/python-3.x-3776AB?style=for-the-badge&logo=python" />
-        </p>
-        <pre><code>$ git clone https://github.com/yasohm/yassin_hackTools.git
-$ cd yassin_hackTools && chmod +x run.sh && ./run.sh</code></pre>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
-## TECH STACK
+## 📡 CONNECT
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Infrastructure** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> HTML5 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/> C# | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/> Docker | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> Linux |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> CSS3 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> Firebase | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/> Git |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> JS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="30"/> .NET | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30"/> MySQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="30"/> PS |
+[![Email](https://img.shields.io/badge/Email-benhaidayassine1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benhaidayassine1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yassin--benhaida-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassin-benhaida)
+[![GitHub](https://img.shields.io/badge/GitHub-yasohm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasohm)
 
 </div>
 
 ---
 
-## ANALYTICS
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasohm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D111700&title_color=00D9FF&text_color=FFFFFF" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasohm&theme=tokyonight&hide_border=true&background=0D111700&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="150px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasohm&theme=tokyo-night&hide_border=true&bg_color=0D111700&color=00D9FF&line=00D9FF&point=FFFFFF" width="100%"/>
-</div>
-
----
-
-## PROJECT ROADMAP
-
-<div align="center">
-
-| **Project** | **Stack** | **Status** |
-|:---|:---|:---|
-| Full-Stack Ecosystems | React | Active |
-| Security Research Tools | Python | Development |
-| Open Source Advocacy | Tooling | Ongoing |
-| Mobile Architecture | Flutter | Exploration |
-
-</div>
-
----
-
-
-## GET IN TOUCH
-
-<div align="center">
-
-<a href="mailto:benhaidayassine1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/yassin-benhaida">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/yasohm">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
 
 ```ascii
 ┌─────────────────────────────────────────────────────────────┐
@@ -124,8 +231,8 @@ $ cd yassin_hackTools && chmod +x run.sh && ./run.sh</code></pre>
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<sub>Crafted by **Yassin Benhaida** | 2026</sub>
+<sub>Built by Yassin Benhaida | 2025</sub>
 
-![Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
