@@ -275,7 +275,7 @@ PATROL ──[detected]──> INVESTIGATE ──[in sight]──> CHASE
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Web & Backend**
+**Web**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -303,6 +303,9 @@ PATROL ──[detected]──> INVESTIGATE ──[in sight]──> CHASE
 **Game Development**
 
 ![Unity](https://img.shields.io/badge/Unity_2023-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
+
+**Robotics**
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
@@ -345,13 +348,13 @@ PATROL ──[detected]──> INVESTIGATE ──[in sight]──> CHASE
 ║  LIVES: ❤️ ❤️ ❤️     STAGE: BTS-02           ║
 ║  STATUS: GRINDING    HIGH SCORE: ???         ║
 ╠══════════════════════════════════════════════╣
-║  🛡️  CYBERSEC    ████████░░  LVL 12         ║
-║  🤖  AI / ML     ███████░░░  LVL  8         ║
-║  🎮  GAME DEV    ██████░░░░  LVL  7         ║
-║  ☕  COFFEE      ██████████  MAX  ∞          ║
+║  🛡️  CYBERSEC    ████████░░  LVL 12          ║
+║  🤖  AI / ML     ███████░░░  LVL  8          ║
+║  🎮  GAME DEV    ██████░░░░  LVL  7          ║
+║  ☕  COFFEE      ██████████  MAX  ∞           ║
 ╠══════════════════════════════════════════════╣
 ║  ACHIEVEMENT UNLOCKED:                       ║
-║  🏆 "Built an AI that learns from itself"   ║
+║  🏆 "Built an AI that learns from itself"    ║
 ╚══════════════════════════════════════════════╝
 ```
 
