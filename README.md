@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0a0e1a,100:00D9FF&height=130&section=header&text=YASSIN%20BENHAIDA&fontSize=44&fontColor=FFFFFF&fontAlignY=68&animation=fadeIn&desc=Developer%20%7C%20Security%20Researcher%20%7C%20AI%20Engineer&descSize=16&descAlignY=85&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0a0e1a,100:00D9FF&height=130&section=header&text=YASSIN%20BENHAIDA&fontSize=44&fontColor=FFFFFF&fontAlignY=68&animation=fadeIn&desc=BTS%20Student%20%7C%20Security%20Enthusiast%20%7C%20AI%20%26%20Game%20Dev&descSize=16&descAlignY=85&descAlign=50" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=680&lines=Full-Stack+Application+Developer+%F0%9F%87%B2%F0%9F%87%A6;Cybersecurity+Researcher+%26+Pentester;AI+%2F+Machine+Learning+Engineer;Game+Developer+%E2%80%94+Unity+%2B+ML-Agents;Building+at+the+intersection+of+security+%26+intelligence." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=680&lines=BTS+Application+Dev+Student+%F0%9F%87%B2%F0%9F%87%A6;Cybersecurity+Enthusiast+%26+Pentester;Building+AI+%E2%80%94+ML+%2B+scikit-learn+%2B+ML-Agents;Game+Developer+%E2%80%94+Unity+%2B+Adaptive+AI;Learning+every+day%2C+building+every+night." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -23,10 +23,11 @@
 ```yaml
 name     : Yassin Benhaida
 handle   : @yasohm
-role     : Developer 
-study    : BTS — Application Development 🇲🇦
-domains  :
-  - Cybersecurity 
+role     : BTS Student — Application Development
+status   : Learning · Building · Growing 🚀
+location : Morocco 🇲🇦
+interests:
+  - Cybersecurity & Ethical Hacking
   - Artificial Intelligence & Machine Learning
   - Game Development (Unity + ML-Agents)
 
